@@ -25,7 +25,7 @@ cv/
 
 ### Updating content (Cursor)
 
-Use the **`/update-cv`** command and describe your change in plain language. It updates **both** `sections/*.tex` + `cv.tex` and `cv.html`, then you can run `make html` / `make tex` to refresh PDFs. See `.cursor/commands/update-cv.md` for the full content map
+Use the **`/update-cv`** command and describe your change in plain language. It updates **both** `sections/*.tex` + `cv.tex` and `cv.html`, then you can run `make html` / `make tex` to refresh PDFs. See `.cursor/commands/update-cv.md` for the full content map..
 
 ---
 
